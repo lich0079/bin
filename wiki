@@ -1,0 +1,2 @@
+cd /Users/lich0079/legacy/offline.wikipedia/mywiki
+python manage.py runserver
